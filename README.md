@@ -1,4 +1,4 @@
-# The-Curse-of-The-Pharaoh
+# The Curse of The Pharaoh
 This project is a MUD (multi-user dungeon) built using Racket,  a multi-paradigm programming language based on the Scheme dialect of Lisp. This was made in homage to the old MUD games, as a fun way to learn functional programming.
 
 ## Documentation:
